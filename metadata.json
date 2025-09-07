@@ -1,0 +1,5 @@
+{
+  "name": "Facial Expression Generator",
+  "description": "Upload a character image to generate 8 different facial expressions using AI. You can download all the generated images as a single zip file.",
+  "requestFramePermissions": []
+}
